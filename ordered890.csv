@@ -1,0 +1,190 @@
+order_id,order_date,customer_id,product_id,product,quantity,customer_name,email,country,type,size,unit_price,sales,imported,exported,loyalty_card
+QEV-37451-860,2019-09-05,17671-51939-MA,R-M-1,Phone,3,Zai,zai12@gmail.com,Pakistan,Electronic,Small,2.3,14,9,2,Yes
+QEV-37452-860,2019-09-06,17672-51939-MA,K-T-2,AC,4,Rose,rose72@gmail.com,Pakistan,Japan Electronic,2 unit,340.45,15,10,1,Yes
+QEV-37453-861,2019-09-07,17673-51939-MA,R-M-3,Micro,7,Lily,lily23@gmail.com,Pakistan,Japan Electronic,1 unit,369,18,13,0,Yes
+QEV-37454-862,2019-07-08,17674-51939-MA,O-P-2,Phone,9,Rean,rean8@gmail.com,UK,Electronic,Ipone,2.3,20,15,0,Yes
+QEV-37455-863,2019-04-09,17675-51939-MA,R-M-5,Laptop,1,Fadi,fadio3@gmail.com,Pakistan,Electronic,Core i5,45,12,7,4,Yes
+QEV-37456-864,2019-08-10,17676-51939-MA,R-M-3,Computer,4,Snobr,snobr@gmail.com,UK,Electronic,Samsung,75,15,10,1,No
+QEV-37417-865,2019-02-11,17677-51939-MA,B-N-9,Charger,6,Robin,rbion@gmail.com,Iceland,Electronic,2 Watt,2,17,12,0,Yes
+QEV-37458-866,2019-09-12,17678-51939-MA,H-T-9,Phone,3,Lone,lone@gmail.com,Pakistan,Electronic,Ipone,2,14,9,2,Yes
+QEV-37459-867,2019-01-13,17679-51939-MA,K-T-2,AC,6,Ben,ben5@gmail.com,Iceland,Japan Electronic,1 unit,340,17,12,0,Yes
+QEV-374560-868,2020-09-14,17680-51939-MA,Z-T-3,AC,3,Ten,ten78@gmail.com,UK,Japan Electronic,2 unit,348,14,9,2,Yes
+QEV-374561-869,2019-04-15,17681-51939-MA,R-M-3,Phone,5,Iron,iron9@gmail.com,Canada,Electronic,Android,2,16,11,0,No
+QEV-374562-870,2019-01-16,17682-51939-MA,K-T-2,Phone,1,Thor,thor56@gmail.com,UK,Electronic,Android,3,12,7,4,No
+QEV-374563-871,2019-09-17,17683-51939-MA,B-N-9,Mouse,7,Shuzka,shuziii@gmail.com,UK,Electronic,Digital,1,18,13,0,No
+QEV-374564-872,2019-09-18,17684-51939-MA,O-P-2,Laptop,2,Nobita,nobbiii@gmail.com,UK,Electronic,Core i5,83,13,8,3,No
+QEV-374565-873,2019-09-19,17685-51939-MA,R-M-1,Laptop,8,Gian,gian67@gmail.com,Pakistan,Electronic,Core i5,70,19,14,0,Yes
+QEV-374566-874,2019-04-20,17687-51939-MA,L-W-7,Micro,9,Sunio,suniooo@gmail.com,UK,Japan Electronic,1 unit,340,20,15,0,Yes
+QEV-374567-875,2019-02-21,17686-51939-MA,H-T-9,Mouse,2,Dora,dora8@gmail.com,Iceland,Electronic,2 unit,1,13,8,3,Yes
+QEV-374568-876,2019-09-22,17688-51939-MA,O-P-2,Pen,7,Dorien,dorieee@gmail.com,Canada,Electronic,Balpoint,0.01,18,13,0,Yes
+QEV-374569-877,2019-02-23,17689-51939-MA,Z-T-3,Pen,2,Danyal,danyal@gmail.com,UK,Electronic,Balpoint,0.1,13,8,3,Yes
+QEV-37470-878,2019-01-24,17690-51939-MA,R-M-3,Fan,1,Zaid,zaid@gmail.com,Pakistan,Electronic,Remote,20,12,7,4,No
+QEV-37471-879,2024-09-25,17691-51939-MA,K-T-2,Fan,5,Zawar,zawar@gmail.com,UK,Electronic,Remote,20,16,11,0,Yes
+QEV-37472-880,2019-02-26,17670921939-MA,B-N-9,Fan,7,Zeshan,zehan@gmail.com,UK,Electronic,Remote,20,18,13,0,No
+QEV-37473-881,2019-09-27,17693-51939-MA,L-W-7,AC,3,Mosa,mosa@gmail.com,Canada,Japan Electronic,,234,14,9,2,Yes
+QEV-37474-882,2019-03-28,17694-51939-MA,R-M-1,Fan,9,Arham,arham@gmail.com,UK,Electronic,Remote,20,20,15,0,Yes
+QEV-37475-883,2019-07-29,17695-51939-MA,Z-T-3,Blub,2,Ahad,ahad67@gmail.com,Germany,Electronic,20 watt,12,13,8,3,Yes
+QEV-37476-884,2019-05-30,17696-51939-MA,H-T-9,Phone,3,Najam,najam@gmail.com,Iceland,Electronic,Ipone,2,14,9,2,Yes
+QEV-37477-885,2019-10-01,17697-51939-MA,L-W-7,Laptop,2,Rehman,rehman@gmail.com,UK,Electronic,Core i5,70,13,8,3,Yes
+QEV-37478-886,2019-10-02,17698-51939-MA,Z-T-3,Phone,2,Daud,daud@gmail.com,Germany,Electronic,Android,2,13,8,3,Yes
+QEV-37479-887,2019-10-03,17699-51939-MA,L-W-7,Mouse,6,Qamar,qamar@gmail.com,Pakistan,Electronic,Digital,1,17,12,0,No
+QEV-37451-888,2019-03-04,17670-51939-NZ,O-P-2,Phone,2,Skinder,skinder@gmail.com,UK,Electronic,Android,2,13,8,3,No
+QEV-37451-889,2019-10-05,17670-51939-ME,B-N-9,Phone,3,Shahbaz,shahbaz@gmail.com,Germany,Electronic,Android,2,14,9,2,No
+QEV-37451-890,2019-10-06,17670-51940-ME,L-W-7,Phone,4,Danyal,danyal009@gmail.com,Canada,Electronic,Android,2,15,10,1,No
+QEV-37451-891,2024-04-07,17670-51941-ME,K-T-2,Phone,5,Subhan,subna@gmail.com,Italy,Electronic,Ipone,2,16,11,0,No
+QEV-37451-892,2019-04-08,17670-51942-ME,L-W-7,Blub,5,Shan,shan00@gmail.com,Germany,Electronic,20 watt,12,16,11,0,No
+QEV-37451-893,2019-04-09,17670-51943-ME,R-M-1,AC,5,Roman,roman@gmail.com,Italy,Japan Electronic,,340,16,11,0,Yes
+QEV-37451-894,2019-03-10,17670-51945-ME,R-M-3,Laptop,6,Tayyab,trayyab@gmail.com,UK,Electronic,Core i5,70,17,12,0,Yes
+QEV-37451-895,2019-05-11,17670-51946-ME,Z-T-3,Blub,1,Kashif,kashif@gmail.com,Dubi,Electronic,20 watt,12,12,7,4,Yes
+QEV-37451-896,2019-05-12,17670-51947-ME,H-T-9,Fan,7,Ali,ali990@gmail.com,Italy,Electronic,Remote,23,18,13,0,Yes
+QEV-37451-897,2023-05-13,17670-51948-ME,L-W-7,Blub,2,Vivi,vivi90090@gmail.com,Canada,Electronic,20 watt,12,13,8,3,Yes
+QEV-37451-898,2019-10-14,17670-51949-ME,G-T-8,Phone,5,Ahsan,ahsna@gmail.com,UK,Electronic,Android,2,16,11,0,Yes
+QEV-37451-899,2019-06-15,17670-51950-ME,R-J-4,Mouse,2,Ahad mir,ahadm09@gmail.com,UK,Electronic,Digital,1,13,8,3,No
+QEV-37451-900,2019-06-16,17670-51958-ME,K-T-2,Phone,9,Sarmad,sarmad34@gmail.com,Iceland,Electronic,Android,2,20,15,0,No
+QEV-37451-901,2023-10-17,17670-51952-ME,O-P-2,Phone,1,Moin,moin32@gmail.com,Germany,Electronic,Ipone,2,12,7,4,No
+QEV-37451-902,2019-10-18,17670-51953-ME,B-N-9,Washing Machine,5,Sana,sana56@gmail.com,Pakistan,Japan Electronic,Automatic,340,16,11,0,No
+QEV-37451-903,2019-06-19,17670-51954-ME,R-M-3,Washing Machine,1,Amna,amna56@gmail.com,Italy,Japan Electronic,Automatic,500,12,7,4,Yes
+QEV-37451-904,2019-01-20,17670-51955-ME,Z-T-3,Washing Machine,9,Juan,juan56@gmail.com,UK,Japan Electronic,,590,20,15,0,No
+QEV-37451-905,2019-07-21,17670-51956-ME,H-T-9,Laptop,1,Doug,doug56@gmail.com,Iceland,Electronic,Core i5,70,12,7,4,Yes
+QEV-37451-906,2019-07-22,17670-51973-ME,L-W-7,AC,4,Charlie,charlie56@gmail.com,Pakistan,Electronic,,340,15,10,1,No
+QEV-37451-907,2019-08-23,17670-51958-ME,Z-T-3,Blub,5,Doug,doug56@gmail.com,UK,Electronic,,12,16,11,0,No
+QEV-37451-908,2019-08-24,17670-51959-ME,G-T-8,Washing Machine,2,Helen,helen56@gmail.com,Pakistan,Japan Electronic,Digital,340,13,8,3,No
+QEV-37451-909,2019-08-25,17670-51960-ME,B-N-9,Fan,2,Doug,doug56@gmail.com,Canada,Electronic,Automatic,30,13,8,3,Yes
+QEV-37451-910,2023-09-26,17670-51961-ME,R-J-4,Blub,3,Doug,doug56@gmail.com,UK,Electronic,,12,14,9,2,Yes
+QEV-37451-911,2019-11-27,16820-62826-QW,R-M-3,Phone,2,Juan,juan56@gmail.com,Germany,Electronic,Ipone,2,13,8,3,Yes
+QEV-37451-912,2019-12-28,16820-62836-QW,K-T-2,Phone,2,Doug,doug56@gmail.com,Italy,Electronic,Ipone,2,13,8,3,Yes
+QEV-37451-913,2024-12-29,16820-62846-QW,O-P-2,Phone,2,Helen,helen56@gmail.com,UK,Electronic,Ipone,2,13,8,3,Yes
+QEV-37451-914,2019-10-30,16820-62526-QW,R-M-1,Laptop,2,Charlie,charlie56@gmail.com,Iceland,Electronic,Core i5,70,13,8,3,Yes
+QEV-37451-915,2019-05-31,16820-62866-QW,B-N-9,AC,3,Helen,helen56@gmail.com,Canada,Japan Electronic,2 Ton,340,14,9,2,Yes
+QEV-37451-916,2019-05-01,16820-62876-QW,Z-T-3,AC,2,Juan,juan56@gmail.com,UK,Japan Electronic,3 Ton,340,13,8,3,Yes
+QEV-37451-917,2023-11-02,16820-62886-QW,H-T-9,Mouse,2,Doug,doug56@gmail.com,Dubi,Electronic,Digital,1,13,8,3,No
+QEV-37451-918,2019-11-03,16820-62896-QW,G-T-8,AC,1,Helen,helen56@gmail.com,Italy,Japan Electronic,3 Ton,340,12,7,4,No
+QEV-37451-919,2019-11-04,16820-62800-QW,L-W-7,Camera,1,Charlie,charlie56@gmail.com,UK,Japan Electronic,Digital,21,12,7,4,No
+QEV-37451-920,2019-11-05,16820-62828-QW,B-N-9,Washing Machine,1,Doug,doug56@gmail.com,Germany,Japan Electronic,,500,12,7,4,No
+QEV-37451-921,2023-11-06,16820-62876-QW,R-M-3,Phone,4,Juan,juan56@gmail.com,Canada,Electronic,Ipone,2,15,10,1,Yes
+QEV-37451-922,2022-11-07,16820-62823-QW,K-T-2,Phone,4,Helen,helen56@gmail.com,Italy,Electronic,Ipone,2,15,10,1,Yes
+QEV-37451-923,2019-11-08,16820-62829-QW,R-M-1,Blub,3,Charlie,charlie56@gmail.com,Iceland,Electronic,,12,14,9,2,Yes
+QEV-37451-924,2019-07-09,17383-76832-SD1,O-P-2,Fan,2,Juan,juan56@gmail.com,Dubi,Electronic,Digital,32,13,8,3,Yes
+QEV-37451-925,2019-12-10,17383-76832-SD2,Z-T-3,Camera,3,Doug,doug56@gmail.com,UK,Electronic,Digital,21,14,9,2,Yes
+QEV-37451-926,2019-11-11,17383-76832-SD3,B-N-9,Laptop,2,Charlie,charlie56@gmail.com,Germany,Electronic,Core i5,70,13,8,3,Yes
+QEV-37451-927,2019-11-12,17383-76832-SD4,G-T-8,Phone,3,Doug,doug56@gmail.com,Canada,Electronic,Ipone,2,14,9,2,Yes
+QEV-37451-928,2019-11-13,17383-76832-SD5,Z-T-3,Phone,3,Helen,helen56@gmail.com,UK,Electronic,Ipone,2,14,9,2,Yes
+QEV-37451-929,2019-11-14,17383-76832-SD6,H-T-9,AC,3,Doug,doug56@gmail.com,UK,Japan Electronic,,340,14,9,2,Yes
+QEV-37451-930,2019-11-15,17383-76832-SD7,R-M-3,AC,3,Doug,doug56@gmail.com,Canada,Japan Electronic,,340,14,9,2,Yes
+QEV-37451-931,2019-11-16,17383-76832-SD8,O-P-2,AC,3,Juan,juan56@gmail.com,UK,,,340,14,9,2,Yes
+QEV-37451-932,2019-11-17,17383-76832-SD9,R-J-4,Washing Machine,3,Doug,doug56@gmail.com,Pakistan,Japan Electronic,Digital,500,14,9,2,Yes
+QEV-37451-933,2019-08-18,17383-76832-SD10,I-O-6,Phone,3,Helen,helen56@gmail.com,Dubi,Electronic,Ipone,2,14,9,2,Yes
+QEV-37451-934,2019-08-19,17383-76832-SD11,L-W-7,Mouse,2,Charlie,charlie56@gmail.com,UK,Electronic,Digital,1,13,8,3,No
+QEV-37451-935,2020-11-20,17383-76832-SD12,B-N-9,Mouse,6,Helen,helen56@gmail.com,Germany,Electronic,Digital,1,17,12,0,No
+QEV-37451-936,2020-08-21,17383-76832-SD13,R-M-1,Mouse,9,Juan,juan56@gmail.com,UK,Electronic,Digital,1,20,15,0,Yes
+QEV-37451-937,2019-11-22,17383-76832-SD14,K-T-2,Mouse,4,Doug,doug56@gmail.com,Italy,Electronic,Digital,1,15,10,1,Yes
+QEV-37451-938,2020-08-23,21539-63283-UT1,Z-T-3,Phone,6,Helen,helen56@gmail.com,Pakistan,Electronic,Ipone,2,17,12,0,Yes
+QEV-37451-939,2019-11-24,21539-63283-UT2,O-P-2,AC,8,Charlie,charlie56@gmail.com,Iceland,Japan Electronic,,340,19,14,0,No
+QEV-37451-940,2019-11-25,21539-63283-UT3,R-J-4,AC,4,Doug,doug56@gmail.com,Dubi,Japan Electronic,,340,15,10,1,Yes
+QEV-37451-941,2019-11-26,21539-63283-UT4,H-T-9,Washing Machine,5,Juan,juan56@gmail.com,Italy,Japan Electronic,Digital,500,16,11,0,No
+QEV-37451-942,2019-11-27,21539-63283-UT5,G-T-8,Camera,3,Helen,helen56@gmail.com,UK,Japan Electronic,Digital,32,14,9,2,Yes
+QEV-37451-943,2019-11-28,21539-63283-UT6,L-W-7,AC,6,Smith,smith56@gmail.com,Canada,Japan Electronic,,340,17,12,0,Yes
+QEV-37451-944,2019-11-29,21539-63283-UT7,B-N-9,AC,3,Smith,smith56@gmail.com,UK,Japan Electronic,,340,14,9,2,Yes
+QEV-37451-945,2019-11-30,21539-63283-UT8,R-J-4,Mouse,5,Hernandez,hernandez56@gmail.com,Germany,Electronic,Digital,1,16,11,0,Yes
+QEV-37451-946,2020-08-01,21539-63283-UT9,K-T-2,Fan,5,Smith,smith56@gmail.com,UK,Electronic,,32,16,11,0,Yes
+QEV-37451-947,2019-12-02,21539-63283-UT10,O-P-2,Laptop,8,Johnson,johnson56@gmail.com,Dubi,Electronic,Core i5,70,19,14,0,Yes
+QEV-37451-948,2019-12-03,21539-63283-UT11,R-M-3,Blub,2,Barnes,barnes56@gmail.com,UK,Electronic,Digital,12,13,8,3,Yes
+QEV-37451-949,2019-12-04,21539-63283-UT12,G-T-8,AC,9,Johnson,johnson56@gmail.com,UK,Japan Electronic,,340,20,15,0,Yes
+QEV-37451-950,2019-12-05,21539-63283-UT13,H-T-9,Phone,1,Hernandez,hernandez56@gmail.com,Dubi,Electronic,Ipone,2,12,7,4,No
+QEV-37451-951,2019-12-06,21539-63283-UT14,R-M-1,Washing Machine,6,Smith,smith56@gmail.com,Italy,Japan Electronic,Digital,500,17,12,0,No
+QEV-37451-952,2019-12-07,21539-63283-UT15,B-N-9,AC,1,Johnson,johnson56@gmail.com,Germany,Japan Electronic,,349,12,7,4,No
+QEV-37451-953,2019-12-08,21539-63283-UT16,H-T-9,Blub,8,Barnes,barnes56@gmail.com,Dubi,Electronic,Digital,12,19,14,0,No
+QEV-37451-954,2019-12-09,21539-63283-UT17,L-W-7,Blub,2,Smith,smith56@gmail.com,UK,Electronic,Digital,12,13,8,3,No
+QEV-37451-955,2019-12-10,21539-63283-UT18,O-P-2,AC,9,Hernandez,hernandez56@gmail.com,Germany,Japan Electronic,,356,20,15,0,No
+QEV-37451-956,2021-12-11,21539-63283-UT19,B-N-9,Blub,3,Johnson,johnson56@gmail.com,Pakistan,Electronic,Digital,12,14,9,2,No
+QEV-37451-957,2019-12-12,21539-63283-UT20,R-M-3,Mouse,7,Zai,zai56@gmail.com,Iceland,Electronic,Digital,1,18,13,0,No
+QEV-37451-958,2019-12-13,21539-63283-UT21,K-T-2,AC,2,Rose,rose56@gmail.com,Canada,Japan Electronic,,345,13,8,3,No
+QEV-37451-959,2019-12-14,21539-63283-UT22,Z-T-3,Washing Machine,7,Lily,lily56@gmail.com,UK,Japan Electronic,Digital,500,18,13,0,No
+QEV-37451-960,2019-12-15,21539-63283-UT23,R-J-4,AC,3,Rean,rean56@gmail.com,Italy,Japan Electronic,,456,14,9,2,Yes
+QEV-37451-961,2021-12-16,21539-63283-UT24,G-T-8,Fan,5,Fadi,fadi56@gmail.com,Germany,Electronic,Digital,32,16,11,0,Yes
+QEV-37451-962,2019-12-17,21539-63283-UT25,H-T-9,Laptop,2,Snobr,snobr56@gmail.com,Dubi,Electronic,Core i5,70,13,8,3,Yes
+QEV-37451-963,2019-12-18,21539-63283-UT26,R-M-1,AC,8,Robin,robin56@gmail.com,Italy,Japan Electronic,,345,19,14,0,No
+QEV-37451-964,2019-12-19,21539-63283-UT27,O-P-2,Washing Machine,8,Lone,lone56@gmail.com,Germany,,Digital,500,19,14,0,Yes
+QEV-37451-965,2019-12-20,21539-63283-UT28,R-J-4,Phone,2,Ben,ben56@gmail.com,UK,Electronic,Android,2,13,8,3,Yes
+QEV-37451-966,2019-12-21,21539-63283-UT29,K-T-2,AC,9,Ten,ten56@gmail.com,UK,,,345,20,15,0,Yes
+QEV-37451-967,2019-12-22,21539-63283-UT30,B-N-9,AC,3,Iron,iron56@gmail.com,Canada,,,345,14,9,2,Yes
+QEV-37451-968,2019-12-23,21539-63283-UT31,H-T-9,AC,6,Thor,thor56@gmail.com,Germany,,,345,17,12,0,Yes
+QEV-37451-969,2019-12-24,21539-63283-UT32,R-M-3,AC,1,Shuzka,shuzka56@gmail.com,UK,Japan Electronic,,345,12,7,4,Yes
+QEV-37451-970,2019-12-25,21539-63283-UT33,R-J-4,Mouse,6,Nobita,nobita56@gmail.com,UK,Electronic,Digital,1,17,12,0,Yes
+QEV-37451-971,2019-12-26,21539-63283-UT34,G-T-8,AC,2,Gian,gian56@gmail.com,Germany,Japan Electronic,,340,13,8,3,Yes
+QEV-37451-972,2019-12-27,21539-63283-UT35,B-N-9,AC,8,Sunio,sunio56@gmail.com,UK,Japan Electronic,,345,19,14,0,Yes
+QEV-37451-973,2019-12-28,21539-63283-UT36,I-O-2,Blub,2,Dora,dora56@gmail.com,Italy,Electronic,Digital,12,13,8,3,Yes
+QEV-37451-974,2019-12-29,21539-63283-UT37,L-W-7,AC,5,Dorien,dorien56@gmail.com,Pakistan,Japan Electronic,,340,16,11,0,Yes
+QEV-37451-975,2019-12-30,21539-63283-UT38,K-T-2,AC,3,Danyal,danyal56@gmail.com,Iceland,Japan Electronic,,345,14,9,2,Yes
+QEV-37451-976,2019-12-31,21539-63283-UT39,O-P-2,Camera,3,Zaid,zaid56@gmail.com,Germany,Electronic,Digital,32,14,9,2,Yes
+QEV-37451-977,2020-01-01,21539-63283-UT40,Z-T-3,Phone,8,Zawar,zawar56@gmail.com,UK,Electronic,Ipone,2,19,14,0,Yes
+QEV-37451-978,2020-01-02,21539-63283-UT41,R-M-1,Laptop,2,Zeshan,zeshan56@gmail.com,UK,,Core i5,70,13,8,3,Yes
+QEV-37451-979,2020-01-03,21539-63283-UT42,B-N-9,AC,7,Mosa,mosa56@gmail.com,Canada,Electronic,,345,18,13,0,No
+QEV-37451-980,2020-01-04,21539-63283-UT43,H-T-9,Blub,3,Arham,arham56@gmail.com,UK,Electronic,Digital,2,14,9,2,No
+QEV-37451-981,2020-01-05,21539-63283-UT44,K-T-2,Blub,4,Ahad,ahad56@gmail.com,Dubi,Electronic,Digital,2,15,10,1,No
+QEV-37451-982,2022-01-06,21539-63283-UT45,R-J-4,AC,4,Najam,najam56@gmail.com,Germany,Electronic,,345,15,10,1,No
+QEV-37451-983,2020-01-07,21539-63283-UT46,L-W-7,Blub,1,Rehman,rehman56@gmail.com,Pakistan,Electronic,Digital,2,12,7,4,Yes
+QEV-37451-984,2020-01-08,21539-63283-UT47,G-T-8,Washing Machine,6,Daud,daud56@gmail.com,Italy,Electronic,Digital,500,17,12,0,No
+QEV-37451-985,2020-01-09,21539-63283-UT48,O-P-2,Mouse,2,Qamar,qamar56@gmail.com,Dubi,Electronic,Digital,1,13,8,3,Yes
+QEV-37451-986,2022-01-10,21539-63283-UT49,K-T-2,TV,0,Skinder,skinder56@gmail.com,UK,Electronic,full size,661,11,6,5,No
+QEV-37451-987,2020-01-11,21539-63283-UT50,Z-T-3,TV,2,Shahbaz,shahbaz56@gmail.com,Dubi,Electronic,full size,661,13,8,3,Yes
+QEV-37451-988,2020-01-12,21539-63283-UT51,B-N-9,AC,5,Danyal,danyal56@gmail.com,Germany,Electronic,,345,16,11,0,No
+QEV-37451-989,2024-01-13,21539-63283-UT52,H-T-9,Phone,2,Subhan,subhan56@gmail.com,Dubi,Electronic,Ipone,2,13,8,3,Yes
+QEV-37451-990,2023-01-14,21539-63283-UT53,R-M-1,Camera,7,Shan,shan56@gmail.com,Iceland,Electronic,Digital,32,18,13,0,No
+QEV-37451-991,2022-01-15,21539-63283-UT54,R-J-4,Fan,2,Roman,roman56@gmail.com,Canada,Electronic,Digital,42,13,8,3,Yes
+QEV-37451-992,2022-01-16,21539-63283-UT55,I-O-2,AC,9,Tayyab,tayyab56@gmail.com,Italy,Electronic,,345,20,15,0,No
+QEV-37451-993,2023-01-17,21539-63283-UT56,R-M-3,Laptop,3,Kashif,kashif56@gmail.com,UK,Electronic,Core i5,77,14,9,2,Yes
+QEV-37451-994,2023-01-18,21539-63283-UT57,R-J-4,Laptop,1,Ali,ali56@gmail.com,Germany,Electronic,Core i5,77,12,7,4,No
+QEV-37451-995,2023-01-19,21539-63283-UT58,H-T-9,TV,5,Vivi,vivi56@gmail.com,UK,Electronic,full size,555,16,11,0,Yes
+QEV-37451-996,2020-01-20,21539-63283-UT59,K-T-2,Laptop,9,Ahsan,ahsan56@gmail.com,Dubi,Electronic,Core i5,77,20,15,0,No
+QEV-37451-997,2023-01-21,21539-63283-UT60,B-N-9,Laptop,2,Ahad mir,ahad mir56@gmail.com,UK,Electronic,Core i5,77,13,8,3,Yes
+QEV-37451-998,2020-01-22,21539-63283-UT61,R-M-3,AC,9,Sarmad,sarmad56@gmail.com,UK,Electronic,,345,20,15,0,No
+QEV-37451-999,2020-01-23,21539-63283-UT62,G-T-8,TV,4,Moin,moin56@gmail.com,Germany,Electronic,,345,15,10,1,Yes
+QEV-37451-1000,2020-01-24,21539-63283-UT63,O-P-2,AC,4,Zoi,zoi56@gmail.com,Canada,Electronic,,345,15,10,1,No
+QEV-37451-1001,2024-01-25,21539-63283-UT64,L-W-7,AC,2,Zuni,zuni56@gmail.com,Germany,Electronic,,345,13,8,3,Yes
+QEV-37451-1002,2024-01-26,21539-63283-UT65,Z-T-3,AC,4,Zahid,zahid56@gmail.com,UK,Electronic,,345,15,10,1,No
+QEV-37451-1003,2024-01-27,21539-63283-UT66,B-N-9,Mouse,2,Zahr,zahr56@gmail.com,Italy,Electronic,Digital,1,13,8,3,Yes
+QEV-37451-1004,2024-01-28,21539-63283-UT67,H-T-9,AC,2,Zht,zht56@gmail.com,UK,Electronic,,345,13,8,3,No
+QEV-37451-1005,2024-01-29,21539-63283-UT68,K-T-2,AC,3,Zubair,zubair56@gmail.com,Pakistan,Electronic,,345,14,9,2,Yes
+QEV-37451-1006,2024-01-30,21539-63283-UT69,R-M-1,AC,6,Ahsn,ahsn56@gmail.com,Dubi,Electronic,,345,17,12,0,No
+QEV-37451-1007,2024-01-31,21539-63283-UT70,R-M-3,AC,2,Ali,ali56@gmail.com,Iceland,Electronic,,345,13,8,3,Yes
+QEV-37451-1008,2024-02-01,21539-63283-UT71,O-P-2,TV,4,Ameer,ameer56@gmail.com,Germany,Electronic,,345,15,10,1,No
+QEV-37451-1009,2024-02-02,21539-63283-UT72,B-N-9,Washing Machine,2,Anas,anas56@gmail.com,UK,Electronic,Digital,345,13,8,3,No
+QEV-37451-1010,2024-02-03,21539-63283-UT73,H-T-9,TV,3,Artm,artm56@gmail.com,Italy,Electronic,Digital,555,14,9,2,No
+QEV-37451-1011,2024-02-04,21539-63283-UT74,R-J-4,Blub,4,Ahthsam,ahthsam56@gmail.com,Canada,Electronic,Digital,12,15,10,1,Yes
+QEV-37451-1012,2024-02-05,21539-63283-UT75,Z-T-3,TV,4,Atheshma,atheshma56@gmail.com,Dubi,Electronic,full size,555,15,10,1,Yes
+QEV-37451-1013,2024-02-06,21539-63283-UT76,O-P-2,Blub,4,Rehman,rehman56@gmail.com,UK,Electronic,Digital,12,15,10,1,Yes
+QEV-37451-1014,2024-02-07,21539-63283-UT77,K-T-2,Washing Machine,1,Razi,razi56@gmail.com,UK,Electronic,Digital,550,12,7,4,Yes
+QEV-37451-1015,2025-02-08,21539-63283-UT78,R-J-4,Fan,4,Qut,qut56@gmail.com,Germany,Electronic,,42,15,10,1,Yes
+QEV-37451-1016,2020-02-09,21539-63283-UT79,R-M-3,Phone,2,Quni,quni56@gmail.com,UK,Electronic,Ipone,2,13,8,3,Yes
+QEV-37451-1017,2025-02-10,21539-63283-UT80,I-O-2,TV,4,Shot,shot56@gmail.com,Italy,Electronic,Digital,555,15,10,1,Yes
+QEV-37451-1018,2025-02-11,21539-63283-UT81,L-W-7,Phone,2,Sthoy,sthoy56@gmail.com,Germany,Electronic,Ipone,2,13,8,3,Yes
+QEV-37451-1019,2025-02-12,21539-63283-UT82,G-T-8,Phone,3,Stokey,stokey56@gmail.com,Pakistan,Electronic,Ipone,2,14,9,2,Yes
+QEV-37451-1020,2025-02-13,21539-63283-UT83,R-M-1,AC,2,dath,dath56@gmail.com,Dubi,Electronic,,345,13,8,3,Yes
+QEV-37451-1021,2025-02-14,21539-63283-UT84,B-N-9,AC,3,Wood,wood56@gmail.com,Iceland,Electronic,,345,14,9,2,Yes
+QEV-37451-1022,2025-02-15,21539-63283-UT85,H-T-9,Mouse,2,Arzoo,arzoo56@gmail.com,UK,Electronic,Digital,2,13,8,3,No
+QEV-37451-1023,2025-02-16,21539-63283-UT86,R-J-4,TV,2,Ansa,ansa56@gmail.com,Italy,Electronic,full size,555,13,8,3,No
+QEV-37451-1024,2024-02-17,21539-63283-UT87,O-P-2,AC,2,Anas,anas56@gmail.com,Dubi,Electronic,,345,13,8,3,No
+QEV-37451-1025,2024-02-18,21539-63283-UT88,R-M-3,Washing Machine,2,Iqra,iqra56@gmail.com,Canada,Electronic,Digital,550,13,8,3,No
+QEV-37451-1026,2024-02-19,21539-63283-UT89,K-T-2,Washing Machine,2,Momina,momina56@gmail.com,Italy,Electronic,Digital,550,13,8,3,No
+QEV-37451-1027,2025-02-20,21539-63283-UT90,Z-T-3,TV,2,Khalil,khalil56@gmail.com,UK,Electronic,full size,555,13,8,3,No
+QEV-37451-1028,2024-02-21,21539-63283-UT91,R-J-4,Phone,7,Tanveer,tanveer56@gmail.com,Germany,Electronic,Android,2,18,13,0,Yes
+QEV-37451-1029,2025-02-22,21539-63283-UT92,O-P-2,Laptop,3,Minha,minha56@gmail.com,UK,Electronic,Core i5,77,14,9,2,Yes
+QEV-37451-1030,2020-02-23,21539-63283-UT93,K-T-2,AC,5,Minhal,minhal56@gmail.com,Dubi,Electronic,,555,16,11,0,Yes
+QEV-37451-1031,2020-02-24,21539-63283-UT94,B-N-9,Fan,2,Amna,amna56@gmail.com,Canada,Electronic,,42,13,8,3,Yes
+QEV-37451-1032,2020-02-25,21539-63283-UT95,I-O-2,Blub,3,Aeman,aeman56@gmail.com,Italy,Electronic,Digital,12,14,9,2,No
+QEV-37451-1033,2020-02-26,21539-63283-UT96,G-T-8,AC,1,Afifa,afifa56@gmail.com,UK,Electronic,,454,12,7,4,Yes
+QEV-37451-1034,2020-02-27,21539-63283-UT97,R-M-1,Laptop,8,Aliza,aliza56@gmail.com,UK,Electronic,Core i5,77,19,14,0,Yes
+QEV-37451-1035,2020-02-28,21539-63283-UT98,R-J-4,AC,3,Anzeela,anzeela56@gmail.com,Pakistan,Electronic,,556,14,9,2,No
+QEV-37451-1036,2020-02-29,21539-63283-UT99,O-P-2,Washing Machine,2,Anaya,anaya56@gmail.com,Germany,Electronic,Digital,550,13,8,3,Yes
+QEV-37451-1037,2020-03-01,21539-63283-UT100,H-T-9,TV,4,Arooj,arooj56@gmail.com,Pakistan,Electronic,,555,15,10,1,Yes
+QEV-37451-1038,2020-03-02,21539-63283-UT101,K-T-2,Blub,9,Hassan,hassan56@gmail.com,Germany,Electronic,Digital,12,20,15,0,Yes
+QEV-37451-1039,2020-03-03,21539-63283-UT102,Z-T-3,Blub,2,Kashif,kashif56@gmail.com,UK,Electronic,Digital,12,13,8,3,Yes
+QEV-37451-1040,2020-03-04,21539-63283-UT103,H-T-9,AC,3,Shban,shban56@gmail.com,UK,Electronic,,345,14,9,2,Yes
+QEV-37451-1041,2020-03-05,21539-63283-UT104,R-M-3,Camera,9,Dar,dar56@gmail.com,UK,Electronic,Automatic,32,20,15,0,Yes
+QEV-37451-1042,2020-03-06,21539-63283-UT105,R-M-1,Laptop,2,Shifiq,shifiq56@gmail.com,Iceland,Electronic,Core i5,77,13,8,3,No
+QEV-37451-1043,2020-03-07,21539-63283-UT106,B-N-9,Laptop,6,Usman,usman56@gmail.com,Pakistan,Electronic,Core i5,77,17,12,0,Yes
+QEV-37451-1044,2020-03-08,21539-63283-UT107,H-T-9,Phone,2,Hina,hina56@gmail.com,Canada,Electronic,Ipone,2,13,8,3,Yes
+QEV-37451-1045,2020-03-09,21539-63283-UT108,O-P-2,Mouse,6,Zaniab,zaniab56@gmail.com,Iceland,Electronic,cable,1,17,12,0,Yes
+QEV-37451-1046,2020-03-10,21539-63283-UT109,R-M-3,AC,2,Nouman,nouman56@gmail.com,Pakistan,Electronic,,345,13,8,3,Yes
+QEV-37451-1047,2021-03-11,21539-63283-UT110,H-T-9,Mouse,4,Fhad,fhad56@gmail.com,UK,Electronic,cable,1,15,10,1,No
